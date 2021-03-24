@@ -63,9 +63,4 @@ public class GameManagerCH5 : MonoBehaviour
     }
 
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
