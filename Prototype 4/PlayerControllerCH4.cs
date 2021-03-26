@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Need to fix player movement so it feels better. Hard to control currently.
+
 public class PlayerControllerCH4 : MonoBehaviour
 {
     private Rigidbody playerRb;
