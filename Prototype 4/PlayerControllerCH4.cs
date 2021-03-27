@@ -15,6 +15,12 @@ public class PlayerControllerCH4 : MonoBehaviour
 
     public GameObject powerupIndicator;
 
+//Right now the player movement is awkward.
+//W and S change velocity up and down.
+//Can only turn Ball by rotating the camera with it.
+//Seperate Ball and Camera movement. WASD for Ball and Mouse for Camera.
+
+
     // Start is called before the first frame update
     void Start()
     {
